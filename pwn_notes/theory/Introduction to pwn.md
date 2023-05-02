@@ -6,6 +6,10 @@ autor: naibu3
 
 ## ¿Qué es pwn?
 
+*Pwn* es una disciplina o categoría dentro del mundo de la ciberseguridad y sobre todo de las competiciones de CTF.
+
+Esta disciplina se centra en la explotación de vulnerabilidades de aplicaciones ya compiladas, mediante diversas técnicas que nos lleven a ejecutar acciones no deseadas.
+
 ## Recursos
 
 Para esta introducción a la categoría de pwn estaremos utilizando las siguientes fuentes:
