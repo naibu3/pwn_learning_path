@@ -50,5 +50,6 @@ file <nombre>
 - `run` - Ejecuta el programa. 
 - `c` - Continua la ejecución.
 - `x $registro` - Muestra el contenido del registro.
-- `p $registro` - Muestra el contenido del registro al que apunta el registro especificado.
+- `p *registro` - Muestra el contenido del registro al que apunta el registro especificado.
+- `set $registro valor` - Establece el valor de un registro.
 - `quit` - Salir del programa.

@@ -13,19 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tools/ghidra.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3acce05eac070c49",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "exercices/00_Simple_Buffer_Overflow.md",
+                "file": "tools/gdb.md",
                 "mode": "source",
                 "source": false
               }
@@ -44,7 +32,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -173,11 +161,11 @@
   },
   "active": "d2275c5dc699550d",
   "lastOpenFiles": [
-    "exercices/00_Simple_Buffer_Overflow.md",
-    "exercices/01_BO_Stack_Variable_Overwritting.md",
-    "theory/Introduction to pwn.md",
-    "tools/ghidra.md",
     "tools/gdb.md",
+    "exercices/01_BO_Stack_Variable_Overwritting.md",
+    "exercices/00_Simple_Buffer_Overflow.md",
+    "tools/ghidra.md",
+    "theory/Introduction to pwn.md",
     "tools/plugins/pwndbg.md",
     "tools/checksec.md",
     "tools/pwntools.md",
