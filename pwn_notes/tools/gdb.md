@@ -21,7 +21,7 @@ sudo apt install gdb
 Para la instalación de los plugins seguir las instrucciones de esta [página](https://infosecwriteups.com/pwndbg-gef-peda-one-for-all-and-all-for-one-714d71bf36b8).
 
 
-# gdb-pwndbg
+# gdb-[[pwndbg]]
 
 Es uno de los plugins que utilizaremos.
 
@@ -51,5 +51,8 @@ file <nombre>
 - `c` - Continua la ejecución.
 - `x $registro` - Muestra el contenido del registro.
 - `p *registro` - Muestra el contenido del registro al que apunta el registro especificado.
-- `set $registro valor` - Establece el valor de un registro.
+- `set $registro = valor` - Establece el valor de un registro.
 - `quit` - Salir del programa.
+
+- `cyclic <n>` - Genera una secuencia de `n` carácteres con letras intercaladas cada 4. (Ejemplo en [[02_Return_To_Win_(Ret2Win)]]).
+	- `cyclic -l <pattern>` - Busca dentro de una secuencia, devolviendo la posición de inicio.

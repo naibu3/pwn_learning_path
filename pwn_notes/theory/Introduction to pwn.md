@@ -25,9 +25,15 @@ Además realizaremos los ejercicios de las siguientes plataformas:
 
 ## Herramientas (tools)
 
-- ### [[ghidra]]
-- ### [[gdb]]
-- ### [[checksec]]
-- ### [[ropper]]
+Las que más estaremos utilizando son:
+
+- [[ghidra]]
+- [[gdb]]
+- [[checksec]]
+- [[ropper]]
 
 También es recomendable (por no decir muy importante) la librería [[pwntools]] de python.
+
+También pueden ser útiles:
+
+- [[radare2]]
