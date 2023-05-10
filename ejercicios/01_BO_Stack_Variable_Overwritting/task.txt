@@ -1,2 +1,0 @@
-El objetivo es que el programa nos autorice, además intenta crear un script
-para automatizar el ataque :)
