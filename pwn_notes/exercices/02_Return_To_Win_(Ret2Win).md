@@ -9,7 +9,7 @@ coautor: naibu3
 
 ## ¿Qué es?
 
-Ya hemos visto cómo funciona un *buffer overflow*, sin embargo, sólo lo hemos utilizado para sobreescribir valores de variables.
+Ya hemos visto cómo funciona un *buffer overflow*, sin embargo, sólo lo hemos utilizado para sobrescribir valores de variables.
 
 Otra utilidad, sería en lugar de sobreescribir un valor, sobreescribir una dirección de retorno, de forma que al volver de la ejecución de una función, en lugar de volver a *main*, retorne a una función arbitraria.
 
